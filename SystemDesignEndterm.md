@@ -1,5 +1,5 @@
 # Task1
-![[task1 1.png]]
+![[![task1](https://github.com/user-attachments/assets/4be8dbf8-1779-4f2c-b09b-4d823a1f5131)]]
 Функциональные требования:
 1) Сбор кликов, лайков, комментов, реклам от юзеров
 2) Потоковая агрегация данных
@@ -25,7 +25,8 @@ Dataflow:
 9) Observability: метрики трейсы, логи
 
 # Task2
-![[task2.png]]
+![[[task2](https://github.com/user-attachments/assets/ff58d0dc-5a4d-4cdd-906d-9395fa4ce719)]]!
+
 Функциональные требования:
 1) Обработка запросов на поездку от пассажиров
 2) Динамическое планирование маршрутов 
@@ -73,7 +74,8 @@ Dataflow:
 
 
 # Task3
-![[task3 1.png]]
+![[![task3](https://github.com/user-attachments/assets/0cd67c2c-d3bf-421f-bd44-7695e84e80c3)
+]]
 Функциональные требования:
 1) Регистрация студентов и работодателей
 2) Загрузка профиля студента (CV, документы о гражданстве, визах и т.п.)
@@ -119,7 +121,8 @@ Dataflow:
     3. Возвращает результат в ApplicationService
     4. ApplicationService обновляет статус заявки.
 # Task5
-![[task5.png]]
+![[![task5](https://github.com/user-attachments/assets/6710630c-827b-4f83-8718-e84ff07ce8df)
+]]
 Функциональные требования:
 1) Голосование онлайн; 
 2) Проверка, что голос учтен; 
@@ -154,7 +157,8 @@ Dataflow:
 	
 
 # Task6
-![[task6.png]]
+![[![task6](https://github.com/user-attachments/assets/271c80cc-9132-40dd-9d68-51b01d378435)
+]]
 Функциональные требования:
 1) Регистрация и Авторизация пользователей по биометрике
 2) Размер и запись выдачи

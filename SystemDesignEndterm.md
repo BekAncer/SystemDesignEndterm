@@ -25,7 +25,7 @@ Dataflow:
 9) Observability: метрики трейсы, логи
 
 # Task2
-![[[task2](https://github.com/user-attachments/assets/ff58d0dc-5a4d-4cdd-906d-9395fa4ce719)]]!
+[[task2](https://github.com/user-attachments/assets/ff58d0dc-5a4d-4cdd-906d-9395fa4ce719)]
 
 Функциональные требования:
 1) Обработка запросов на поездку от пассажиров

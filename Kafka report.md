@@ -30,7 +30,8 @@
 4) Трансформатор данных - на основе Apache Samza, Apache Camel проводит данные через консьюмер и приводит их к согласованной форме
 5) Мониторинг - для мониторинга использовался стек Prometheus(сбор метрик), Grafana(построение дашбордов), Elasticsearch + Kibana(централизованная система логирования), Alertmanager(оповещения при нарушениях SLA), Отказоустоичивость: 99.999%
 Architecture:
-![Uploading Kafka-architecture.png…]()
+
+![Kafka-architecture](https://github.com/user-attachments/assets/0772e040-0e5c-4cd2-8613-211ab37aaca1)
 
 
 Технические характеристики:

@@ -45,6 +45,7 @@ HTTP/1.1 vs HTTP/2 vs QUIC:
 
 Архитектура решения:
 
+![Backend-Optimization](https://github.com/user-attachments/assets/cfdd9b90-35a3-462e-a328-4c65a9d54250)
 
 Технические характеристики
 1. 530 frontend серверов (контент, API).
